@@ -12,6 +12,10 @@ body {
     line-height: 1;
     color: aliceblue;
   }
+
+  a{
+    color: rgb(184, 208, 243);
+  }
   
   .idioma {
     color: white;
