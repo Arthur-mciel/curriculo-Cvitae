@@ -14,7 +14,10 @@ body {
   }
 
   a{
-    color: rgb(184, 208, 243);
+    color: rgb(165, 196, 241);
+  }
+  link{
+    color: rgb(165, 196, 241);
   }
   
   .idioma {
